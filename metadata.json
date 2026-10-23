@@ -1,0 +1,8 @@
+{
+  "name": "KILSTA Business & ICT Consultants",
+  "description": "Enterprise Business and ICT consulting, training, and form submission management database for Milne Bay Province, Papua New Guinea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
